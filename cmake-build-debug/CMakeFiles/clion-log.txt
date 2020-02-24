@@ -1,0 +1,4 @@
+"D:\Program Files (HD)\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Rubens Diniz\CLionProjects\TrabalhoSO_2020_02_10"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Rubens Diniz/CLionProjects/TrabalhoSO_2020_02_10/cmake-build-debug
